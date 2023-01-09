@@ -5,3 +5,6 @@ This application is a visualizer that utulizes the A-star algorithm to display a
 
 Credits:
 This program was made through following the tutorial by Tech with Tim and thus the only purpose in creating this was learning. 
+
+Installation Steps:
+Download pygame
